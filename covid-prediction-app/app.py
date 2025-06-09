@@ -108,4 +108,4 @@ st.markdown("---")
 st.markdown("""
 This application is part of a project addressing SDG 3 (Good Health and Well-being).
 The model is designed to help public health officials make informed decisions about COVID-19 response.
-""") 
+""")
